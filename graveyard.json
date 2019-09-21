@@ -1,4 +1,12 @@
 [
+    {
+    "dateClose": "2010-07-07",
+    "dateOpen": "2019-10-02",
+    "description": "YouTube Leanback was a version of YouTube that is optimized for TV.",
+    "link": "https://9to5google.com/2019/09/16/youtube-leanback-tv-interface-disabled-soon/",
+    "name": "YouTube Leanback",
+    "type": "service"
+  },
   {
     "dateClose": "2019-09-03",
     "dateOpen": "2013-11-29",
